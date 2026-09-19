@@ -13,5 +13,3 @@ Overall, my internship provided hands-on experience at the intersection of mater
 ### Proprietary Information
 
 Because this work was completed at Toyota Racing Development, much of the technical information associated with these projects is proprietary.
-
-[AM - Final Presentation-01.pdf](https://github.com/user-attachments/files/32424174/AM.-.Final.Presentation-01.pdf)
